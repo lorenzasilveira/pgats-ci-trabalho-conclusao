@@ -1,8 +1,5 @@
 # Dependências
 node_modules/
 
-# Logs e arquivos de debug
-package-lock.json
-
 #Relatórios
 mochawesome-report/
