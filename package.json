@@ -1,0 +1,27 @@
+{
+  "name": "desafio-pagamento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mochawesome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenzasilveira/pgats-ci-trabalho-conclusao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lorenzasilveira/pgats-ci-trabalho-conclusao/issues"
+  },
+  "homepage": "https://github.com/lorenzasilveira/pgats-ci-trabalho-conclusao#readme",
+  "dependencies": {
+    "mocha": "^11.7.6"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.4"
+  }
+}
