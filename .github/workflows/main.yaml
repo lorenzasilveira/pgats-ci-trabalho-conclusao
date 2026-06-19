@@ -14,10 +14,10 @@ on:
       branches:
         - main
 
-    # agendada a cada 30 minutos
+    # agendada toda segunda-feira às 00:00 UTC
     schedule:
 
-      - cron: '*/10 * * * *'
+      - cron: '0 0 * * 1'
 
 #tarefas dentro da pipeline = jobs
 
